@@ -5,6 +5,8 @@ $consulta = "SELECT * FROM dados ORDER BY nome asc";
 $con = $mysqli->query($consulta) or die($mysqli->error);
 ?>
 
+
+
 <html>
     <head>    
         <script type="text/javascript" src="Jquerry.js"></script> 
