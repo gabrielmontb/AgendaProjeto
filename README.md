@@ -441,7 +441,7 @@ Este é um projeto pessoal de estudo. Sinta-se livre para usar como referência 
 
 ## 👤 Autor
 
-**Gabriel Montebeller Pereira**  
+**Gabriel Montserrat**  
 GitHub: [@gabrielmontb](https://github.com/gabrielmontb)
 
 ---
